@@ -8,6 +8,6 @@ The dataset is composed as follow:
 - Column2: the words contained in the documents
 - Column3: NA if the the word is not a target group, othervise the target group to which the word refers to
 
-To re-use this dataset please, read the LICENCE file. 
+To re-use this dataset please, read the LICENSE file. 
 
 To contact the author feel free to write to: filippo.chiarello@ing.unipi.com
