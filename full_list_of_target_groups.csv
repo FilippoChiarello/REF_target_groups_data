@@ -1,6 +1,5 @@
 doc_id,full_target_group
 1855,people
-2933,example people
 3674,people with ms
 3789,people with cystic fibrosis
 3862,people with diabete
@@ -17,11 +16,9 @@ doc_id,full_target_group
 21063,people with motor
 21706,people with variation
 23094,many people
-23094,young people with epilepsy
 23128,people with fh
 23861,people across cameroon
 23863,people in full
-23864,smallest people
 23864,people with primordial dwarfism
 23864,shortest people
 28034,non-diabetic people
@@ -67,7 +64,6 @@ doc_id,full_target_group
 44360,most people with glaucoma
 44363,people with glaucoma
 44383,most people
-3869,people per year
 3869,people with new
 3869,people with epilepsy
 6305,people with tb
@@ -109,7 +105,6 @@ doc_id,full_target_group
 32380,people with normal heart
 32380,people with heart failure
 35209,people since july
-35582,people with moderate alzheimer
 35582,people with mild alzheimer
 38354,people in northern ireland
 40167,elderly people
@@ -119,7 +114,6 @@ doc_id,full_target_group
 40170,hiv positive people
 40170,people living
 40170,treat people
-40170,positive people
 40406,people with active tb
 40408,people with multivessel disease
 40408,people with myocardial infarction
@@ -137,7 +131,6 @@ doc_id,full_target_group
 1410,people with information
 1686,people with stroke
 2770,thousand people
-2772,people from minority ethnic
 2772,involve train people
 3668,people with down
 4645,people in south asian community
@@ -147,9 +140,6 @@ doc_id,full_target_group
 11527,people from black
 11527,people with sight loss
 11527,vision impaire people from black
-11527,sight people
-11527,impaire people
-11527,henshaws society for blind people
 12101,older people in jonkoping municipality
 12102,people with stroke illness
 12102,people with post
@@ -176,7 +166,6 @@ doc_id,full_target_group
 21476,people with cfs/ me
 21765,older people public service
 23000,improve people
-24408,people in south east
 26547,rural older people
 26547,older people in rural area
 26547,older people healthy
@@ -208,7 +197,6 @@ doc_id,full_target_group
 38434,young people in school
 38630,active people
 38801,most people today
-38801,difficulties people
 38801,people with special care
 39335,british people
 39336,people with communication disability
@@ -236,7 +224,6 @@ doc_id,full_target_group
 41300,many people with depression
 41302,people with t1dm
 41302,such people
-41302,people with t1 dm
 41306,people with beta
 41308,people in many country
 41311,people with life
@@ -268,7 +255,6 @@ doc_id,full_target_group
 1976,people with autism
 1977,people in extreme fuel
 2531,conceive people
-3473,young people websites
 3475,people with ptsd
 3477,japanese people
 3477,japanese people of childbearing age
@@ -279,7 +265,6 @@ doc_id,full_target_group
 12097,people with visual
 13749,food allergic people
 15858,much people
-17151,lgbt people in scottish society
 17151,lgbt young people
 17151,lgbt young people in education
 17151,lgbt family lgbt young people
@@ -309,7 +294,6 @@ doc_id,full_target_group
 28487,people in emergencies
 32051,people .c
 32070,first thing people in general look
-32221,people with psychological condition
 34972,disadvantage young people
 35108,people with similar experience
 35244,professional caregiver of people with dementia
@@ -332,7 +316,6 @@ doc_id,full_target_group
 41149,young people from smoke
 41149,people from second hand
 41181,fewer people
-41181,minority ethnic people with mental health
 41191,people with pd
 41192,young people with psychosis
 41193,people in harm
@@ -368,14 +351,11 @@ doc_id,full_target_group
 44472,people with alarming rate
 44472,ill people
 44472,have people
-4953,large population of people with ms
 12228,people in more
-17269,people with active relapsing
 17273,elderly people with high homocysteine
 17514,people against influenza a
 19413,irish people
 21737,dozen people
-23625,local people for herde
 23893,people per day
 23894,infect people
 27458,same people
@@ -414,13 +394,11 @@ doc_id,full_target_group
 37290,people with food aid
 37290,nourished people in sub
 37296,warn people
-38817,people in poor health
 40235,together people
 43425,local people under ufp
 43603,problem people face
 18129,people ont
 25837,numerous young people
-28089,people in industry
 35256,salaried people
 42244,people in wilton
 4325,people in uk industry
@@ -432,7 +410,6 @@ doc_id,full_target_group
 32739,people behind sixty symbols
 34170,godless people
 34170,people in total
-35264,direct people contact
 35265,people across scotland
 37175,train people
 38362,people per event
@@ -453,17 +430,13 @@ doc_id,full_target_group
 20293,people of bristol
 22417,many people in co2 crc
 30511,general less people
-30520,many young people across london
 30520,very people
-30946,shanghai peoples hospital in area such
 40255,people in thailand
 40258,people in california
 41518,recession most people
 43014,people with asthma
 44354,claim people
-1672,people in britain
 1672,hear people
-12530,people with intellectual
 12530,people with intellectual disability
 12530,people in ghi
 14511,young people with complex physical
@@ -481,9 +454,7 @@ doc_id,full_target_group
 32127,crew of tradespeople
 32146,sigh people
 32744,great many people
-35121,people of gibraltar
 35121,several people
-35279,people with rich new
 35800,people with severe speech
 39759,people with different business
 41611,people of ottawa
@@ -502,7 +473,6 @@ doc_id,full_target_group
 42158,people in high
 43232,people in lincoln
 43232,people full
-43972,people with severely limited
 996,people in belfast
 6344,people with vi disability
 6344,individual vi people
@@ -516,7 +486,6 @@ doc_id,full_target_group
 2784,young people through outreach activity
 6346,people in employment
 8076,main reason people
-17847,european people
 17847,blind people as part
 23142,young people in collaboration
 42184,people with heart block
@@ -524,14 +493,12 @@ doc_id,full_target_group
 44163,people with hearing loss
 44163,people with cochlear implant
 85,many people active
-2788,people in hard
 2788,broaden people
 3469,poor rural people
 3925,older people in sustainable living
 3925,people through focus group
 4961,real people
 14225,enable people
-18932,course people
 19877,valuing older people team
 20945,young people as part
 21452,people in place more
@@ -544,9 +511,7 @@ doc_id,full_target_group
 35385,positive people publishing
 35586,people from construction
 36837,use people
-42350,international association people
 2789,influence people
-2789,different people
 3405,people in ancient time
 3405,craft people
 6352,business people
@@ -558,7 +523,6 @@ doc_id,full_target_group
 12233,young people in derbyshire
 13605,world many people
 13751,people towards
-17837,people fair
 17863,young people than other exhibition
 17863,similar way people
 17927,people china
@@ -574,7 +538,6 @@ doc_id,full_target_group
 20953,missing people charity
 20953,missing people project
 26567,many young people
-27331,people in poverty share
 28105,value people
 28106,people of orkney
 28149,workless people
@@ -590,7 +553,6 @@ doc_id,full_target_group
 38383,people from employment
 38803,people in healthcare setting
 38913,people through more
-38913,people record
 38913,people across europe
 38965,people of roman york
 38965,fact real people
@@ -618,7 +580,6 @@ doc_id,full_target_group
 33676,people in germany
 35289,key people involved
 41637,many older people
-43236,older people in receipt
 43236,future older people
 43817,people in latin america
 44541,people with education
@@ -659,7 +620,6 @@ doc_id,full_target_group
 39092,unemployed young people into employment
 39120,homeless people in charnwood
 39816,m people
-39832,people plan
 39832,base people plan
 39832,line manager in people management
 40438,people within organisation
@@ -682,8 +642,6 @@ doc_id,full_target_group
 546,young people from area
 2544,people dedicat
 3551,incapacitate people
-3551,incapacitated people
-3903,joint name people
 3905,disabled people centre
 5847,young people committee
 5847,people committee
@@ -730,13 +688,11 @@ doc_id,full_target_group
 35812,danish socialist people
 40297,people gainsborough
 40570,injure people
-42659,chiawelo people
 43186,relative importance people place
 43404,democracy assist people
 43465,people experiencing
 43686,people experience
 44386,displace people
-383,young people in custody
 2800,dh putting people first
 2800,people from bme community
 2800,put people first
@@ -744,7 +700,6 @@ doc_id,full_target_group
 3356,older people for northern ireland
 3356,vulnerable older people
 3356,countless older people
-4607,influential people in fundraising
 4679,people with idd
 4679,young people with idd
 4679,people with challenging behaviour
@@ -778,7 +733,6 @@ doc_id,full_target_group
 24803,central england people first
 24803,cumbria people
 24803,highlight people
-27455,people in kunduz province
 28489,valuing people
 28491,people unaware
 29289,older people face
@@ -795,8 +749,6 @@ doc_id,full_target_group
 37231,race young people
 37231,race people
 38402,experienced young people
-38403,experience young people
-38404,young people in justice proceedings
 38437,bereave people
 38437,chinese older people about cancer
 38872,people of birmingham
@@ -832,8 +784,6 @@ doc_id,full_target_group
 43962,cald people
 43962,people from minority backgrounds
 44126,people from many different
-44127,many people compliment
-44630,people in poverty
 3483,treatment people with disability
 3484,people in south wales
 18599,older people as worker
@@ -847,7 +797,6 @@ doc_id,full_target_group
 40397,transgender people
 41126,irish elderly people
 42667,many people new
-43549,elder people care
 43549,people per panel
 43552,people from business
 43617,disable people in britain
@@ -867,8 +816,6 @@ doc_id,full_target_group
 29360,tribal people
 34929,bhutanese people with mental illness
 35122,different community of people
-35122,specific community of people
-35297,pacific people
 36905,people category
 37313,afghani people
 42140,local forest people
@@ -883,12 +830,10 @@ doc_id,full_target_group
 2581,young people with sen
 4967,individual young people
 6370,few people
-7157,people with severe intellectual
 14575,people best
 14584,building young people
 15871,young people in relation
 15911,join people
-19100,young people in gang
 19100,young people in deprived community in glasgow
 23134,abuse young people
 23134,young people directorate
@@ -914,8 +859,6 @@ doc_id,full_target_group
 39818,people of privilege
 40345,young people in decision
 40345,young people per year
-40494,influence young people
-42373,young people in wales
 42437,people in area
 42513,young people in emergency planning
 42513,young people through internet radio
@@ -929,7 +872,6 @@ doc_id,full_target_group
 44319,young people for receipt
 44327,young people use
 44327,young people better
-44327,young people in today
 44327,young people suffer
 44499,people in different geographical
 746,many people in gym
@@ -944,14 +886,12 @@ doc_id,full_target_group
 15983,active people survey
 15983,overweight people
 21779,young people per annum
-21779,obese people in more
 21779,qatari young people
 21780,inactive people
 24003,young people for nhs health
 31134,people in public care
 31956,community people
 35165,numerous people
-40281,disengage young people in challenging environment
 40576,young people without prior international
 40591,places people play
 40592,active young people in sport
@@ -962,7 +902,6 @@ doc_id,full_target_group
 44277,particular young people
 1442,apache people
 1442,many indigenous people
-3355,people in tohoku
 4880,young people in state care
 4880,people concerned
 20180,dprk supreme people
@@ -972,7 +911,6 @@ doc_id,full_target_group
 42777,people of somaliland
 42781,neglect people
 43257,people per month
-931,young people in
 1698,young people with down syndrome
 1698,young people unit
 4895,many fascinating people
@@ -984,7 +922,6 @@ doc_id,full_target_group
 6415,western young people
 6415,sichuan people
 7155,forty people
-7744,people in india
 18027,young people in east london
 18131,chinese people
 20471,people of central
@@ -1006,14 +943,11 @@ doc_id,full_target_group
 36238,foreign people
 38884,people of freedom
 42775,multiple people involved
-43363,enthusiastic people
 44184,people april
 937,enrich people
-1445,people in january
 3388,elderly people with dementia
 4914,retired people
 4973,many retired people
-4975,many people of other background
 4975,thing young people
 4975,united people in community
 5909,older people about lloyd george
@@ -1023,14 +957,11 @@ doc_id,full_target_group
 12211,sheffield people
 12211,people without mental health
 12213,increase people
-13847,attract people
-14587,young people in social media
 14716,local people with local history
 21346,international people
 21722,young people with history
 21722,young people with heritage
 21723,move people
-21725,adopted people
 21965,people from diverse ethnic
 24698,people per lecture
 28154,people with musical accompaniment
@@ -1040,7 +971,6 @@ doc_id,full_target_group
 29888,perception people
 29888,young people in particular '
 30199,access people
-31746,language young people
 31746,perceive young people
 31746,young people experience
 31802,huguenot people
@@ -1050,16 +980,12 @@ doc_id,full_target_group
 38418,young people about dickens
 38421,young people in creative
 38888,make people
-38890,people between may 7th
 39969,people like alan
 40629,people last
 40842,people of different culture
 41274,give people
-41274,give people something
-42376,people with interests
 43480,people of south africa
 43771,many different people
-43772,people like scott thurston
 43946,people in parliament square
 44096,people like lizelle bisschoff
 44097,people per screening
@@ -1072,9 +998,7 @@ doc_id,full_target_group
 8856,individual people in ireland
 8856,young irish people
 8857,inspire people
-9041,norwegian people
 12158,support people interested
-12161,german people
 18945,sixty people
 19102,lead people
 21012,young people of different background
@@ -1093,11 +1017,9 @@ doc_id,full_target_group
 35308,way medieval people
 35310,scotlands people
 35821,room many people
-37527,local people in research process
 38423,young people about conflict
 38894,many birmingham people
 38894,enhance people
-38971,people interested
 39774,local unemployed people
 39779,young people into close collaboration
 40860,individual people
@@ -1115,21 +1037,16 @@ doc_id,full_target_group
 43369,important people
 43370,picture people
 43485,people in
-43563,people of northern england
 43563,interlink people of northern england
 43776,church people
 44190,stimulate people
-44193,motivate people
-44489,people with criminal forebear
 44634,african people in scotland
 44634,many people in britain
-8849,people of lefkandi
 17511,local spennymoor people
 24026,people view
 35194,people in swansea
 35200,people in devon
 949,people of religious
-949,non-religious people
 11834,people with psychiatric diagnose
 15866,young people into university
 18008,people with access
@@ -1138,15 +1055,12 @@ doc_id,full_target_group
 34998,people eligible
 34998,putting people
 34998,putting people first
-35184,disable people in society
 35316,future people
 41289,many time people
-41641,people in other place
 42445,interior designer for impaired people
 43992,challenging people
 44531,people from different country
 6391,moving people
-9235,people of rural england
 20088,religious people in general
 21795,vulnerable people in traumatic circumstance
 22022,diverse people
@@ -1157,26 +1071,21 @@ doc_id,full_target_group
 28210,people cross boundary
 28210,people of different faith
 28211,engage people
-28885,people in official role
 28886,business people in milan
 34483,people from non-academic
 36511,case people
 38436,mainstream business people in glastonbury
 38585,bring people
-40332,teaching lay people
 40332,people of other faith
 40934,many tran people
-40935,white people
 42029,tamil people
 42029,people in cross-cultural context
 43374,transform traditional people
-43374,people in multiple tradition
 43376,people with learning disabilities
 43376,professional people
 43376,people in society
 43567,religious people
 43567,most religious people
-582,million people worldwide
 1422,people in japan
 2817,people choice
 3938,people from different professional
@@ -1189,28 +1098,23 @@ doc_id,full_target_group
 4982,vision impaired people
 5300,young people in walsall
 6392,many people in various place
-8432,people in outdoor location
 14091,people with quality
 15861,extra special people
 15861,young people as creator
 23747,ways people
-23802,people in shanghai
 23802,user about other people
 23802,people from liverpool
 24037,people per session
-31744,older people in hospital
 32988,way local people
 32988,people of framlingham
 32988,people of thetford
 32989,disenfranchise people
 35176,profile business people
 35854,people per week
-38633,older people in westminster
 39812,people attend adult
 39826,key people in fashion company
 39826,young people from across europe
 40347,rescu people
-40355,minded young people
 41150,people across merseyside
 42136,people of african
 42652,people with different social
@@ -1221,7 +1125,6 @@ doc_id,full_target_group
 979,people in power
 4556,people from diverse races
 4681,reach young people
-4681,young disable people
 4682,people with severe physical
 4682,bodi people
 4901,people from different social
@@ -1234,7 +1137,6 @@ doc_id,full_target_group
 31761,young people in lincolnshire
 35579,young people in europe
 39124,only people
-40340,people today
 40441,people through deafness research
 42125,fourteen people
 42125,body people
@@ -1246,7 +1148,6 @@ doc_id,full_target_group
 43781,people in mha care
 43782,people with post traumatic
 44092,several young people
-44391,people from other cultural
 44643,island people
 44643,young people through partnership
 4436,people from many walk
@@ -1260,13 +1161,11 @@ doc_id,full_target_group
 14825,people through online site
 19040,young people from merseyside
 20944,put people
-21205,people in higher acorn
 21205,people in art attendance
 24883,day people in wales
 24883,welsh people
 27101,people in image
 27323,interview people
-27423,african caribbean people in cinema
 28922,people with sight problem
 31863,disempower people
 35183,people dimension
@@ -1287,8 +1186,6 @@ doc_id,full_target_group
 18928,few people with dementia
 21765,people with complex restoration
 26547,several older people
-29889,many people experience
-31285,people with co-morbid diabete
 37287,younger people age
 38448,older people in nursing home
 39336,people with significant disability
@@ -1300,7 +1197,6 @@ doc_id,full_target_group
 43537,people with ld.
 44340,enable people with aphasia
 63,raise young people
-12095,dyslexic people
 17151,lgbt people in scotland
 17492,benefit people with cfs
 21480,people with alzheimer
@@ -1310,7 +1206,6 @@ doc_id,full_target_group
 42955,people for prosopagnosia
 17273,people with mild cognitive
 21963,inspiring young people
-6274,people from school
 37290,undernourished people
 44019,people in bumblebee recording
 38826,young people through school
@@ -1328,7 +1223,6 @@ doc_id,full_target_group
 40557,people in naghdah
 44166,inspire people from outside academia
 3474,way people interact
-23228,tribal people in australasia
 40788,people in developed country
 17864,people off western africa
 40279,income people
@@ -1339,17 +1233,14 @@ doc_id,full_target_group
 22919,young people by south yorkshire
 39832,people manager in diverse organisation
 40565,fund people project
-44511,unemployed young people
 44527,people within large company
 12093,people from death
 32746,young people in hull
 38396,affect people
-41245,people in public place
 30207,poor young people
 3258,people with serious mental
 5823,people from care
 5823,exclude people
-11749,older people experience
 16705,stateless people world
 24739,young people bill
 29289,older people visible
@@ -1389,7 +1280,6 @@ doc_id,full_target_group
 43556,disaffect young people
 3468,people with global horizon
 21012,encourage young people
-37527,people of hulme
 39775,people with regards
 40359,folkestone people
 41143,people of caribbean
